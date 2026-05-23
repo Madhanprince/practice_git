@@ -1,2 +1,8 @@
 print("welcome to git")
 print("git practice")
+print("git practice 2")
+print("git practice 3")
+print("git practice 4")
+print("git practice 5") 
+print("git practice 6")
+print("git practice 7")          
