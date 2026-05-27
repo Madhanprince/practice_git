@@ -1,9 +1,2 @@
 glibgg
-gslGBG
-GSIGJBR
-qqs;gbg
-srdfjfb
-[dfhvgslg
-bglasgb
-gb
-dgda;gb]
+madhan working in the roots
